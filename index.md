@@ -19,3 +19,7 @@ var myVar = "Hello, world!";
 ```java
 int x = 5;
 ```
+
+- [x] Turn on GitHub Pages
+- [ ] Outline my portfolio
+- [ ] Introduce myself to the world
